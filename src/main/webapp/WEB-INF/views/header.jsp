@@ -47,10 +47,10 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Creek</a>
+                                            <a href="#">Colorado</a>
                                         </li>
                                         <li>
-                                            <a href="#">Secret Mountain</a>
+                                            <a href="#">Hidden Place</a>
                                         </li>
                                     </ul>
                                 </li>
