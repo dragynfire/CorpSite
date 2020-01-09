@@ -50,6 +50,9 @@
                                             <a href="#">Colorado</a>
                                         </li>
                                         <li>
+                                            <a href="#">Americas</a>
+                                        </li>
+                                        <li>
                                             <a href="#">Hidden Place</a>
                                         </li>
                                     </ul>
